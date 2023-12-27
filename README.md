@@ -1,3 +1,3 @@
-# This is a simple QR Code design challenge by frontend mentor
+# Frontend Mentor - simple QR Code design
 # Day 1 Challenge 
-# #100 days of code
+# 100 days of code
